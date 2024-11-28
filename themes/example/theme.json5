@@ -1,0 +1,61 @@
+// SPDX-FileCopyrightText: Simon Schneegans <code@simonschneegans.de>
+// SPDX-License-Identifier: CC0-1.0
+
+{
+  name: "Example Theme",
+  author: "Simon Schneegans",
+  themeVersion: "1.0.0",
+  license: "CC0-1.0",
+
+  // This theme was created for Kando's sound theme engine version 1.
+  // Kando will use this to check if the theme is compatible with the
+  // current version of Kando.
+  engineVersion: 1,
+
+  // This is a list of sound files which are played when certain events
+  // occur in the menu.
+  sounds: {
+    openMenu: {
+      file: "close.mp3",
+      volume: 0.3,
+    },
+    closeMenu: {
+      file: "close.mp3",
+      volume: 0.5,
+      minPitch: 0.9,
+      maxPitch: 0.9,
+    },
+    hoverItem: {
+      file: "hover.mp3",
+      volume: 0.8,
+      minPitch: 1.2,
+      maxPitch: 1.3,
+    },
+    hoverParent: {
+      file: "hover.mp3",
+    },
+    hoverSubmenu: {
+      file: "hover.mp3",
+      volume: 0.4,
+      minPitch: 0.6,
+      maxPitch: 0.8,
+    },
+    selectItem: {
+      file: "select-menu.mp3",
+      minPitch: 1.1,
+      maxPitch: 1.2,
+    },
+    selectParent: {
+      file: "select-parent.mp3",
+      volume: 0.5,
+      minPitch: 0.7,
+      maxPitch: 0.8,
+    },
+    selectSubmenu: {
+      file: "select-menu.mp3",
+      volume: 0.5,
+      minPitch: 0.8,
+      maxPitch: 0.9,
+    },
+  },
+}

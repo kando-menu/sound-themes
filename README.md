@@ -32,3 +32,5 @@ Where this is located, you can learn [here](https://kando.menu/reference/config-
 > You can also join the [Kando Discord server](https://discord.gg/hZwbVSDkhy) to share your themes and get help with creating them!
 
 ## 🎵 Available Themes
+
+- [🎉 Example](./themes/example/): This is maybe not the most pleasing theme, but you can use it as a starting point to create your own themes!

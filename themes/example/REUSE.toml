@@ -1,0 +1,32 @@
+# SPDX-FileCopyrightText: Simon Schneegans <code@simonschneegans.de>
+# SPDX-License-Identifier: CC0-1.0
+
+version = 1
+
+# https://pixabay.com/de/sound-effects/ui-exit-menu-243462/
+[[annotations]]
+path = ["close.mp3"]
+precedence = "aggregate"
+SPDX-FileCopyrightText = "Jurij from Pixabay"
+SPDX-License-Identifier = "LicenseRef-Pixabay"
+
+# https://pixabay.com/de/sound-effects/click-21156/
+[[annotations]]
+path = ["hover.mp3"]
+precedence = "aggregate"
+SPDX-FileCopyrightText = "666HeroHero from Pixabay"
+SPDX-License-Identifier = "LicenseRef-Pixabay"
+
+# https://pixabay.com/de/sound-effects/menu-selection-102220/
+[[annotations]]
+path = ["select-menu.mp3"]
+precedence = "aggregate"
+SPDX-FileCopyrightText = "morganpurkis (Freesound)"
+SPDX-License-Identifier = "LicenseRef-Pixabay"
+
+# https://pixabay.com/sound-effects/vanishing-sfx-37098/
+[[annotations]]
+path = ["select-parent.mp3"]
+precedence = "aggregate"
+SPDX-FileCopyrightText = "elfstonepress (Freesound)"
+SPDX-License-Identifier = "LicenseRef-Pixabay"
