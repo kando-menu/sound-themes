@@ -34,4 +34,4 @@ Where this is located, you can learn [here](https://kando.menu/config-files/)!
 ## 🎵 Available Themes
 
 - [🎉 Example](./themes/example/): This is maybe not the most pleasing theme, but you can use it as a starting point to create your own themes!
-- [🎉 EVNTech Vache](./themes/EVNTech-Vache/): This is a calm sound theme for pupils who love to stay focused and relaxed. !
+- [🎉 EVNTech Vache](./themes/EVNTech-Vache/): This is a calm sound theme for pupils who love to stay focused and relaxed.
