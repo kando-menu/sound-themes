@@ -1,0 +1,47 @@
+# SPDX-FileCopyrightText: EVNTech Vache <https://discord.com/users/569168465030676497> 
+# SPDX-License-Identifier: CC0-1.0
+
+version = 1
+
+[licenses]
+"LicenseRef-evntech-vache-close-license" = { file = "LICENSES/LicenseRef-evntech-vache-close-license.txt" }
+"LicenseRef-evntech-vache-hover-license" = { file = "LICENSES/LicenseRef-evntech-vache-hover-license.txt" }
+"LicenseRef-evntech-vache-open-license" = { file = "LICENSES/LicenseRef-evntech-vache-open-license.txt" }
+"LicenseRef-evntech-vache-select-item-select-menu-license" = { file = "LICENSES/LicenseRef-evntech-vache-select-item-select-menu-license.txt" }
+
+[[annotations]]
+path = ["close.wav"]
+precedence = "aggregate"
+SPDX-FileCopyrightText = "applehillstudios <https://elements.envato.com/swoosh-9D73P3W>"
+SPDX-License-Identifier = "LicenseRef-evntech-vache-close-license"
+
+[[annotations]]
+path = ["hover.wav"]
+precedence = "aggregate"
+SPDX-FileCopyrightText = "StormwaveAudio <https://elements.envato.com/wooden-interface-button-hover-1-WUA7DCN>"
+SPDX-License-Identifier = "LicenseRef-evntech-vache-hover-license"
+
+[[annotations]]
+path = ["open.wav"]
+precedence = "aggregate"
+SPDX-FileCopyrightText = "StormwaveAudio <https://elements.envato.com/small-lever-arch-folder-mechanism-2-Z5SUSA7>"
+SPDX-License-Identifier = "LicenseRef-evntech-vache-open-license"
+
+[[annotations]]
+path = ["select-item.wav"]
+precedence = "aggregate"
+SPDX-FileCopyrightText = "TibaSFX <https://elements.envato.com/click-5QZC62T>"
+SPDX-License-Identifier = "LicenseRef-evntech-vache-select-item-select-menu-license"
+
+[[annotations]]
+path = ["select-menu.wav"]
+precedence = "aggregate"
+SPDX-FileCopyrightText = "TibaSFX <https://elements.envato.com/click-5QZC62T>"
+SPDX-License-Identifier = "LicenseRef-evntech-vache-select-item-select-menu-license"
+
+[[annotations]]
+path = ["*.jpg", "*.png"]
+precedence = "aggregate"
+SPDX-FileCopyrightText = "EVNTech Vache <https://discord.com/users/569168465030676497>"
+SPDX-License-Identifier = "CC0-1.0"
+
