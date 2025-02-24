@@ -1,5 +1,3 @@
-SPDX-License-Identifier: LicenseRef-select-item-select-menu-license
-
 LICENSE CERTIFICATE: Envato Elements Item
 =================================================
 This license certificate documents a license to use the item listed below
