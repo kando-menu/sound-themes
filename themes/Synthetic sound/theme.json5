@@ -1,0 +1,53 @@
+// SPDX-FileCopyrightText: 2025 Rena and LCG
+// SPDX-License-Identifier: CC0-1.0
+
+{
+  name: 'Synthetic sound',
+  author: 'Rena and LCG',
+  license: 'CC0-1.0',
+  themeVersion: '1.0',
+ 
+  // This theme was created for Kando's sound theme engine version 1.
+  // Kando will use this to check if the theme is compatible with the
+  // current version of Kando.
+  engineVersion: 1,
+
+  // This is a list of sound files which are played when certain events
+  // occur in the menu.
+  sounds: {
+    openMenu: {
+      file: "menu_open.mp3",
+      volume: 0.7,
+    },
+    closeMenu: {
+      file: "menu_close.mp3",
+      volume: 0.6,
+    },
+    hoverItem: {
+      file: "item_hover.mp3",
+      volume: 0.4,
+      minPitch: 0.9,
+      maxPitch: 1.1,
+    },
+    hoverParent: {
+      file: "parent_hover.mp3",
+      volume: 0.3,
+    },
+    hoverSubmenu: {
+      file: "submenu_hover.mp3",
+      volume: 0.4,
+    },
+    selectItem: {
+      file: "item_select.mp3",
+      volume: 0.8,
+    },
+    selectParent: {
+      file: "parent_select.mp3",
+      volume: 0.7,
+    },
+    selectSubmenu: {
+      file: "submenu_open.mp3",
+      volume: 0.6,
+    },
+  },
+}
