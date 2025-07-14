@@ -35,3 +35,4 @@ Where this is located, you can learn [here](https://kando.menu/config-files/)!
 
 - [🎉 Example](./themes/example/): This is maybe not the most pleasing theme, but you can use it as a starting point to create your own themes!
 - [🎉 EVNTech Vache](./themes/EVNTech-Vache/): This is a calm sound theme for pupils who love to stay focused and relaxed.
+- [🎉 Synthetic Sound](./themes/Synthetic%20sound/): A futuristic synthetic sound theme with carefully balanced audio effects by Rena and LCG.
