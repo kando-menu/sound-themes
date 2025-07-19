@@ -8,3 +8,47 @@ path = "**"
 precedence = "closest"
 SPDX-FileCopyrightText = "2025 Rena and LCG"
 SPDX-License-Identifier = "CC0-1.0"
+
+[licenses."ZapSplat-Standard"]
+file = "LICENSES/LicenseRef-ZapSplat-Standard.txt"
+spdx-id = "LicenseRef-ZapSplat-Standard"
+
+[[files]]
+path = "item_hover.mp3"
+copyright = "ZapSplat"
+license = "ZapSplat-Standard"
+
+[[files]]
+path = "item_select.mp3"
+copyright = "ZapSplat"
+license = "ZapSplat-Standard"
+
+[[files]]
+path = "menu_close.mp3"
+copyright = "ZapSplat"
+license = "ZapSplat-Standard"
+
+[[files]]
+path = "menu_open.mp3"
+copyright = "ZapSplat"
+license = "ZapSplat-Standard"
+
+[[files]]
+path = "parent_hover.mp3"
+copyright = "ZapSplat"
+license = "ZapSplat-Standard"
+
+[[files]]
+path = "parent_select.mp3"
+copyright = "ZapSplat"
+license = "ZapSplat-Standard"
+
+[[files]]
+path = "submenu_hover.mp3"
+copyright = "ZapSplat"
+license = "ZapSplat-Standard"
+
+[[files]]
+path = "submenu_open.mp3"
+copyright = "ZapSplat"
+license = "ZapSplat-Standard"
