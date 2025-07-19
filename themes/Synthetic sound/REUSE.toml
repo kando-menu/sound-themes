@@ -4,51 +4,57 @@
 version = 1
 
 [[annotations]]
-path = "**"
-precedence = "closest"
-SPDX-FileCopyrightText = "2025 Rena and LCG"
-SPDX-License-Identifier = "CC0-1.0"
-
-[licenses."ZapSplat-Standard"]
-file = "LICENSES/LicenseRef-ZapSplat-Standard.txt"
-spdx-id = "LicenseRef-ZapSplat-Standard"
-
-[[files]]
 path = "item_hover.mp3"
+precedence = "aggregate"
 copyright = "ZapSplat"
-license = "ZapSplat-Standard"
+SPDX-FileCopyrightText = "ZapSplat <https://www.zapsplat.com>"
+SPDX-License-Identifier = "LicenseRef-ZapSplat-Standard"
 
-[[files]]
+[[annotations]]
 path = "item_select.mp3"
+precedence = "aggregate"
 copyright = "ZapSplat"
-license = "ZapSplat-Standard"
+SPDX-FileCopyrightText = "ZapSplat <https://www.zapsplat.com>"
+SPDX-License-Identifier = "LicenseRef-ZapSplat-Standard"
 
-[[files]]
+[[annotations]]
 path = "menu_close.mp3"
+precedence = "aggregate"
 copyright = "ZapSplat"
-license = "ZapSplat-Standard"
+SPDX-FileCopyrightText = "ZapSplat <https://www.zapsplat.com>"
+SPDX-License-Identifier = "LicenseRef-ZapSplat-Standard"
 
-[[files]]
+[[annotations]]
 path = "menu_open.mp3"
+precedence = "aggregate"
 copyright = "ZapSplat"
-license = "ZapSplat-Standard"
+SPDX-FileCopyrightText = "ZapSplat <https://www.zapsplat.com>"
+SPDX-License-Identifier = "LicenseRef-ZapSplat-Standard"
 
-[[files]]
+[[annotations]]
 path = "parent_hover.mp3"
+precedence = "aggregate"
 copyright = "ZapSplat"
-license = "ZapSplat-Standard"
+SPDX-FileCopyrightText = "ZapSplat <https://www.zapsplat.com>"
+SPDX-License-Identifier = "LicenseRef-ZapSplat-Standard"
 
-[[files]]
+[[annotations]]
 path = "parent_select.mp3"
+precedence = "aggregate"
 copyright = "ZapSplat"
-license = "ZapSplat-Standard"
+SPDX-FileCopyrightText = "ZapSplat <https://www.zapsplat.com>"
+SPDX-License-Identifier = "LicenseRef-ZapSplat-Standard"
 
-[[files]]
+[[annotations]]
 path = "submenu_hover.mp3"
+precedence = "aggregate"
 copyright = "ZapSplat"
-license = "ZapSplat-Standard"
+SPDX-FileCopyrightText = "ZapSplat <https://www.zapsplat.com>"
+SPDX-License-Identifier = "LicenseRef-ZapSplat-Standard"
 
-[[files]]
+[[annotations]]
 path = "submenu_open.mp3"
+precedence = "aggregate"
 copyright = "ZapSplat"
-license = "ZapSplat-Standard"
+SPDX-FileCopyrightText = "ZapSplat <https://www.zapsplat.com>"
+SPDX-License-Identifier = "LicenseRef-ZapSplat-Standard"

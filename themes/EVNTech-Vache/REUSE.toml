@@ -38,10 +38,3 @@ path = ["select-menu.wav"]
 precedence = "aggregate"
 SPDX-FileCopyrightText = "TibaSFX <https://elements.envato.com/click-5QZC62T>"
 SPDX-License-Identifier = "LicenseRef-evntech-vache-select-item-select-menu-license"
-
-[[annotations]]
-path = ["*.jpg", "*.png"]
-precedence = "aggregate"
-SPDX-FileCopyrightText = "EVNTech Vache <https://discord.com/users/569168465030676497>"
-SPDX-License-Identifier = "CC0-1.0"
-
