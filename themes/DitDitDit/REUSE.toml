@@ -1,0 +1,10 @@
+# SPDX-FileCopyrightText: 2026 foxtrot_128
+# SPDX-License-Identifier: WTFPL
+
+version = 1
+
+[[annotations]]
+path = ["*.wav"]
+precedence = "aggregate"
+SPDX-FileCopyrightText = "2026 foxtrot_128"
+SPDX-License-Identifier = "WTFPL"

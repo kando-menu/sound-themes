@@ -1,0 +1,56 @@
+// SPDX-FileCopyrightText: 2026 foxtrot_128
+// SPDX-License-Identifier: WTFPL
+
+{
+  name: 'Dit-Dit-Dit',
+  author: 'foxtrot_128',
+  license: 'WTFPL',
+  themeVersion: '1.0',
+ 
+  // This theme was created for Kando's sound theme engine version 1.
+  // Kando will use this to check if the theme is compatible with the
+  // current version of Kando.
+  engineVersion: 1,
+
+  // This is a list of sound files which are played when certain events
+  // occur in the menu.
+  sounds: {
+    openMenu: {
+      file: "OPN.wav",
+      volume: 0.7,
+    },
+    closeMenu: {
+      file: "CLS.wav",
+      volume: 0.6,
+    },
+    hoverItem: {
+      file: "SEL.wav",
+      volume: 0.4,
+      minPitch: 0.8,
+      maxPitch: 0.8,
+    },
+    hoverParent: {
+      file: "SEL_LOW.wav",
+      volume: 0.3,
+    },
+    hoverSubmenu: {
+      file: "CLK.wav",
+      volume: 0.4,
+
+    },
+    selectItem: {
+      file: "CNS.wav",
+      volume: 0.8,
+    },
+    selectParent: {
+      file: "CNS.wav",
+      volume: 0.7,
+    },
+    selectSubmenu: {
+      file: "SEL.wav",
+      volume: 0.6,
+      minPitch: 0.8,
+      maxPitch: 0.8,
+    },
+  },
+}
