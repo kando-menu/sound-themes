@@ -3,4 +3,8 @@
 
 version = 1
 
-everything is made by foxtrot_128. 
+[[annotations]]
+path = ["*.wav"]
+precedence = "aggregate"
+SPDX-FileCopyrightText = "2026 foxtrot_128"
+SPDX-License-Identifier = "WTFPL"
